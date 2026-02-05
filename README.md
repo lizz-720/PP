@@ -1,1 +1,1 @@
-# Project
+# Study Buddies Project
