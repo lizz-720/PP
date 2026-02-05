@@ -1,4 +1,4 @@
-# Project
+# CPSC 362
 
 CSUF CPSC 362-Software Engineering Project
 
