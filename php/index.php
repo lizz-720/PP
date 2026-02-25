@@ -66,6 +66,7 @@
     <body>
         <h1>Welcome, <?php echo htmlspecialchars($_SESSION['name']); ?>!</h1>
         <a href="logout.php"><button>Logout</button></a>
+        <a href="flashcards.php"><button>Flashcards</button></a>
         <h1>📚 Study Guide Generator</h1>
         <form method="POST" style="margin: 20px 0;">
             <input type="text" name="topic" placeholder="Enter topic..." required>
